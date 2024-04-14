@@ -1,9 +1,7 @@
-# Detection-Distracted-Driver-for-travel-safety
+# Detection-of-Distracted-Driver-for-travel-safety
 <div class="cell markdown">
 
-## Distracted-Driver-Detection
-
-<img src="./supp/front_page.png" style="width:250;height:250;">
+![image](https://github.com/BhuvanaTerala/Detection-of-Distracted-Driver-for-travel-safety/assets/159866484/49292f3c-70b5-4980-ae58-00a446204972)
 
 </div>
 
